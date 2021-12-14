@@ -2,6 +2,6 @@
 # I Am making WriteNotepad text Editor using python
 - 🧑‍💻 I am A softWare Engineer 😉
 # Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyanProgrammer)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyanProgrammer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/reyanProgrammer/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/reyanProgrammer/github-stats/blob/master/generated/languages.svg)
 
